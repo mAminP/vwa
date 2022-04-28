@@ -1,0 +1,12 @@
+{
+    "name":"Amin Test",
+    "short_name": "vue-example",
+    "version":"1.1",
+    "manifest_version":3,
+    "icons": [],
+    "start_url": "/",
+    "id": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#4DBA87"
+}
